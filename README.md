@@ -66,12 +66,11 @@ $ npx react-native run-android
 <a href="https://learningdata.dev/sobre">  
  <img src="https://raw.githubusercontent.com/GeovanaSLima/GeovanaSLima/main/GitProfile.png" alt="Geovana Sousa"/>
   <p><b>Geovana Sousa 🚀</b></p></a>
-<p><i>A passionate Data Scientist and Developer ❤️</i></br>
+<p><i>A passionate Developer ❤️</i></br>
    Get in touch! 👋🏽</p>
 
 
 [![LearningData Badge](https://img.shields.io/badge/-LearningData-%23FC5C65?style=&logo=ghost)](https://learningdata.dev)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-%238390A2?style=&logo=adobe)](https://geovanasousa.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Geovana-blue?style=&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovana--sousa/)](https://www.linkedin.com/in/geovana--sousa/) 
-[![UpWork Badge](https://img.shields.io/badge/-UpWork-%23008329?style=&logo=upwork)](https://www.upwork.com/freelancers/~011b2cff3928142907)
 [![Gmail Badge](https://img.shields.io/badge/-geovanasslima-c14438?style=&logo=Gmail&logoColor=white&link=mailto:geovanasslima@gmail.com)](mailto:geovanasslima@gmail.com)
